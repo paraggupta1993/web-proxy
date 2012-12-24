@@ -1,0 +1,59 @@
+HTTP/1.1 200 OK
+Date: Mon, 09 Apr 2012 01:20:40 GMT
+Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
+Last-Modified: Fri, 29 Apr 2011 11:53:01 GMT
+ETag: "111a33-1fa1-4a20d50d12140"
+Accept-Ranges: bytes
+Content-Length: 8097
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+<html> 
+	 
+	<head> <title> Course Page </title> 
+		 
+		<link rel="icon" href="iiitLogo.jpg" type="image/jpg" /> 
+		 <link rel="alternate" type="application/rss+xml" title="RSS" href="create_rss.php"/></head> 
+	  
+	 <style type="text/css"> 
+		 .nav a {
+			 display: block;
+		 }
+		 a
+		 {
+			 text-decoration:none;
+		 }
+	 </style> 
+	  
+	 <body> 
+		 <a name="top"></a> 
+		    
+		  
+		 <LINK href="css/style.css" rel="stylesheet" type="text/css"><script language="javascript" type="text/javascript" src="code.js"></script><div><table class = "Table" width="1250"  cellpadding = "10" style="table-layout:fixed"><tr><td><img src = 'krose.jpeg' width ="100" height="100" style="border-style:groove;border-color:blue;border-width:3px;"></td><td width="63%" valign="top"> <font size = "5" color = "#505050"> <center><u>Computer Networks<br>CS3350</u></center></font></td><td width="18%" align = "left"><font size = "5" color = "#585858" width="100%"> <center><u>Instructor & TAs</u></center> </font></td></tr><tr><td valign="top"><table cellpadding="2" cellspacing="6" width="100%"><tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=index.html><font color = #3333FF>Home</font></a></td></tr><tr><td></td></tr><tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=lectures.php><font color = #3333FF>Lectures</font></a></td></tr><tr><td></td></tr><tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=resources.php><font color=#3333FF>Resources</font></a></td></tr>
+							 <tr><td></td></tr> <tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=projects.php><font color=#3333FF>Projects</font></a></td></tr><tr><td></td></tr>
+							 <tr><td></td></tr> <tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=updates.html><font color=#3333FF>Updates</font></a></td></tr><tr><td></td></tr><tr><td></td></tr>
+							                                                           <tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=tutorial.php><font color=#3333FF>Tutorials</font></a></td></tr><tr><td></td></tr>
+
+														   <tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=upload.php><font color=#3333FF>Upload Portal</font></a></td></tr>
+														   <!--<tr><td></td></tr><tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=lab.php><font color=#3333FF>Lab Info</font></a></td></tr><tr><td></td></tr> <tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=tutorial.php><font color=#3333FF>Tutorial Info</font></a></td></tr><tr><td></td></tr><tr><td bgcolor=#ddeedd class="nav" onMouseOver="this.style.backgroundColor='#ccddee'; this.style.cursor='hand'" onMouseOut="this.style.backgroundColor='#ddeedd'"><a href=tools.php><font color=#3333FF>Tools</font></a></td></tr><tr><td></td></tr>--><br></table></td> <td valign = "top"><font color ="#505050"><table cellspacing ="8" width = "100%" bgcolor="#FFFFFF" style = "border-width:3.0px;border-style:solid;border-color:#3366CC"><tr><td bgcolor = "#ddeedd"><font color = "#585858"><b> Course Overview </b></font></td></tr><tr><td><font color = "#505050"><font size = "3px"></font></font><font size="2">Start with Applications like WWW, HTTP, FTP etc<br>Understand the transport protocols like TCP,UDP <br>Understanding the best effort network core like IP,BGP,DNS etc.<br>Look at Link Technology and access control<br>Study the case of wireless communication<br>Attacks on wireless networks</td></tr><tr><td bgcolor="#ddeedd"><font color="#585858"><b>Lecture Hours</b></font></td></tr><tr><td><font color = "#505050"></font><font size="2">Monday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:30 a.m. - 12:55 p.m. (UG3 ,PG and others)      ,  3:30 p.m. - 5:00 p.m. (UG2) <br>Thursday&nbsp;&nbsp;&nbsp;&nbsp;11:30 a.m. - 12:55 p.m. (UG3 , PG and ohers) , 3:30 p.m.  - 5:00 p.m. (UG2)</font></td></tr>
+									 <tr><td bgcolor="#ddeedd"><font color="#585858"><b>Tutorial Hours</b></font></td></tr><tr><td><font size="2">Wednesday&nbsp;&nbsp;&nbsp;&nbsp;4:00 p.m. - 6:00 p.m. (All except PGSSP) , Saturday&nbsp;&nbsp;&nbsp;&nbsp;2:00 p.m. - 4:00 p.m. ( For PGSSP )</td></tr>
+										 <tr><td bgcolor="#ddeedd"><font color="#585858"><b>Subscription details</b></font></td></tr><tr><td><font size="2">Subscribe by sending a blank mail with the subject 'subscribe' to the following
+													 email address -  cs3350-subscribe@mailinglists.iiit.ac.in</td></tr>
+											 <tr><td bgcolor="#ddeedd"><font color="#585858"><b> Office Hours </b> </font></td></tr>
+									 <tr><td><b>Animesh</b> &nbsp&nbsp&nbsp&nbsp Monday &nbsp &nbsp &nbsp  5:00-6:00 p.m. <br><b>Shubhangi</b> &nbsp Monday &nbsp&nbsp&nbsp&nbsp&nbsp 6:00-7:00 p.m.<br><b>Hemant</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Tuesday &nbsp &nbsp &nbsp  4:00-5:00 p.m.<br><b>Umang </b> &nbsp &nbsp &nbsp&nbsp Tuesday &nbsp &nbsp &nbsp 5:00-6:00 p.m. <br><b>Deepak</b>&nbsp &nbsp &nbsp Wednesday&nbsp 6:00-7:00 p.m.<br><b>Swapnil</b> &nbsp &nbsp&nbsp&nbsp Thursday &nbsp &nbsp&nbsp 4:00-5:00 p.m.<br><b>Ayush</b> &nbsp &nbsp &nbsp &nbsp Friday &nbsp &nbsp &nbsp &nbsp&nbsp  4:00-5:00 p.m.<br><b>Nirvana</b> &nbsp &nbsp&nbsp Saturday &nbsp &nbsp&nbsp 5:00-6:00 p.m.<!--<font size=2><b>Dr. Bruhadeshwar</b> &nbsp;&nbsp;&nbsp;&nbsp;Monday 3:30-4:30 PM & Thursday 3:30-4:30 PM</font></td></tr>
+										 <tr><td><font size=2><b>Shubhangi Sharma</b>&nbsp;&nbsp;&nbsp;&nbsp;Monday 5:00-6:00 PM</font></td></tr>
+										 <tr><td><font size=2><b>Animesh Chatterji</b> &nbsp;&nbsp;&nbsp;&nbsp;Monday 6:00-7:00 PM</font></td></tr>
+										 <tr><td><font size=2><b>Hemant Dhingra</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday 4:00-5:00 PM</font></td></tr>
+										 <tr><td><font size=2><b>Manish Sharma</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday 5:00-6:00 PM</font></td></tr>
+										 <tr><td><font size=2><b>Akula Lalitheswar</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday 6:00-7:00 PM</font></td></tr>
+										 <tr><td><font size=2><b>Shashank Sahni</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday 4:00-5:00 PM</font></td></tr>
+										 <tr><td><font size=2><b>Rohan Kulkarni</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday 5:00-6:00 PM</font></td></tr>
+									 <tr><td><font size=2><b>Ashok Vardhan</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday 6:00-7:00 PM</font></tr>
+										 <tr><td><font size=2><b>Venue</b>: CSTAR Conference Hall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Alternative Venue</b>: B4-302(CSTAR)</font></tr>-->
+					 </table></td><td valign="top"><table cellspacing=5 width=100% bgcolor=#FFFFFF style = "border-width:3.0px;border-style:solid;border-color:#3366CC;table-layout:fixed"><tr><td><br><center>Dr. Bezawada Bruhadeshwar (I)</center><br><center>Shubhangi Sharma</center><br><center>Animesh Chatterji</center><br><center>Hemant Dhingra</center><br><center>Nirvans Laha</center><br><center>Deepak Srivastava</center><br><center>Swapnil Chavada</center><br><center>Ayush Kumar</center><br><center>Umang</center><br><center>Vivek Tale</center><br></td></table></td></tr></table></div></body></html> 
+						  
+						  
+						  
+						  
+						  

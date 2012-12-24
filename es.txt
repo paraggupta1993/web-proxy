@@ -1,0 +1,77 @@
+security:
+1.Airside : 
+	Around 10 extra CCTVs are used in parking areas and airside roads.
+a) Aircraft Movement Areas : we already have two runways, using preexisting airside security measures.
+b) Passenger Loading/Unloading Aircraft Parking Areas : we are increasing size of aircraft parking area. The distance to fence/public access areas is decreased, so employing extra security guards and CCTV alongside existing security measures. This area is known as Security Identification Display Area (SIDA).	
+c) The International Civil Aviation Organization (ICAO) Standards require the designation of an isolated security aircraft parking position suitable for parking aircraft known or believed to be the subject of unlawful interference, to remove and examine cargo, mail and stores removed from an aircraft during bomb threat conditions, or which for other reasons, need isolation from normal airport activities. This location is also referred to as a “Hijack/Bomb Threat Aircraft Location” or “hot spot” in many Airport Security Programs. 
+d) Air side Roads : We are providing extra CCTV's and guards on the runway 2 sideways of terminal 3.
+
+2.Landside :
+  Most of the landside area has to be covered by CCTV cameras. There are overall 50 odd CCTVs installed in landside area. 15-underground parking; 20-terminal; 15-entries of airport.
+a) Parking : Parking area of new terminal 3 has to be provided with security measures:
+	-Staffed vehicle inspection stations to control access in and around the airport terminal during elevated threat levels are advisable to provide a 	   location outside of the “blast envelope” in which to inspect vehicles approaching the airport terminal on the access roadway.
+	-Turnstiles, roll gates, or vehicular crash barriers that will stop or impede “gate crashing.”
+	-Employement of new CCTV cameras.Lines of sight for CCTV surveillance(s.t. they are visible in night also) are a consideration and has to be 		   maintained throughout.
+	-Ensuring proper lighting in the newly constructed road(inside the vicinity) and terminal 3.
+b) Entry Check : New boundaries alongside of the new terminal has be monitered by electronic sensors, motion detectors, infrared sensors and cameras.
+
+3.Emergency Response : 
+
+4.Terminal Security : 
+	This is divided in two parts :
+a)During Construction :
+	
+	-Efficient terminal facilities do much more than move persons and baggage through various spaces. A
+	tremendous amount of “behind the curtain” activity must occur in support of passenger activities for the
+	whole process to function smoothly. Much of the support activity occurs in areas and pathways that are out
+	of public view and have no public access. Aircraft operator and airport personnel need access to various
+	functions of the terminal on a continual basis, sometimes at a hectic pace. Concessionaires within the
+	terminal should have a means of delivering supplies and materials to various locations without impacting
+	passenger circulation. Airport system monitoring and maintenance functions need to occur away from
+	passengers whenever possible.
+	-
+b)After Construction :
+	Once terminal T3 is functioning it will be using security measures prexisting in terminal T1 and T2.
+	-Public Emergency Exits
+	-Security Doors vs. Fire Doors
+	-
+
+
+	1.
+	Construction Hazards:
+	This basically includes measures against the possible hazards during
+	construction.
+	Accidents
+	Fire breakdown
+	Electricity faults ( affecting working of airport as well as construction process)
+	Security of workers (against accidents during construction)
+	Terrorism
+	Check on workers
+	Vehicles entering the airport premises
+	Smuggling
+	Check on construction material
+	Illegal immigration
+	Limited access for workers
+	Public cutoff from construction site
+	physical barriers
+	Theft of construction material
+	Monitoring important and remote areas
+	Protection of construction material from natural causes
+	Conduct runs for security checks
+	2.
+	After Construction:
+	Deals with security after construction.
+	Fire, electricity shot circuit and other similar hazards. Availability of
+	extinguisher, use of latest technologies against these hazards.
+	Measures against terrorist activities. Check passenger and luggage in the new
+	building built.
+	Check for medical hazard migration and medical emergency.
+	3.
+	Panic Management:
+	Deals with public management in case of any disaster or some bad
+	event.
+	In case of fire, ensuring there is no stampede.
+	Air craft crash and accidents, ensuring that there is no riot like scene
+	Terrorist activities inside/outside the terminal, ensuring people don't go
+	violent.
+
